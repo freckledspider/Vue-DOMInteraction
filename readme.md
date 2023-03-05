@@ -3,6 +3,7 @@
 - Interpolation and data binding
 - Binding attributes with the "v-bind" directive
 - Understanding "methods" in Vue apps
+- Working with data inside of a Vue app
 ### Technologies Used
 - HTML
 - CSS
