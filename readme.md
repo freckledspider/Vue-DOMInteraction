@@ -1,4 +1,7 @@
-# Udemy Coursework - Creating and Connecting Vue App Instances
+# Udemy Coursework - DOM Interaction with Vue
+- Creating and Connecting Vue App Instances
+- Interpolation and data binding
+- Binding attributes with the "v-bind" directive
 ### Technologies Used
 - HTML
 - CSS
