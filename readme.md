@@ -10,6 +10,7 @@
 - Events and methods
 - Working with event arguments
 - Using the native event object
+- Exploring event modifiers
 ### Technologies Used
 - HTML
 - CSS
