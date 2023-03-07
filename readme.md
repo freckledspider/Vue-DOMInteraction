@@ -17,6 +17,7 @@
 - Introducing Computed Properties
 - Working with Watchers
 - v-bind and v-on Shorthands
+- Dynamic Styling with Inline Styles
 ### Technologies Used
 - HTML
 - CSS
