@@ -14,6 +14,7 @@
 - Locking content with v-once
 - Data Binding + Event Binding = Two-Way Binding
 - Methods used for Data Binding: How It Works
+- Introducing Computed Properties
 ### Technologies Used
 - HTML
 - CSS
