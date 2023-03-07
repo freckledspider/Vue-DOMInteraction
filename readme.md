@@ -16,6 +16,7 @@
 - Methods used for Data Binding: How It Works
 - Introducing Computed Properties
 - Working with Watchers
+- v-bind and v-on Shorthands
 ### Technologies Used
 - HTML
 - CSS
