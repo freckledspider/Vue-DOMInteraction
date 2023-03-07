@@ -11,6 +11,7 @@
 - Working with event arguments
 - Using the native event object
 - Exploring event modifiers
+- Locking content with v-once
 ### Technologies Used
 - HTML
 - CSS
