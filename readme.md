@@ -15,6 +15,7 @@
 - Data Binding + Event Binding = Two-Way Binding
 - Methods used for Data Binding: How It Works
 - Introducing Computed Properties
+- Working with Watchers
 ### Technologies Used
 - HTML
 - CSS
