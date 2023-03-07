@@ -20,6 +20,7 @@
 - Dynamic Styling with Inline Styles
 - Adding CSS Classes Dynamically
 - Classes & Computed Properties
+- Dynamic Classes: Array Syntax
 ### Technologies Used
 - HTML
 - CSS
