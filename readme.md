@@ -8,6 +8,7 @@
 - Practice data binding
 - Understanding event binding
 - Events and methods
+- Working with event arguments
 ### Technologies Used
 - HTML
 - CSS
