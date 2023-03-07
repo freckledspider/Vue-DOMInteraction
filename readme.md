@@ -19,6 +19,7 @@
 - v-bind and v-on Shorthands
 - Dynamic Styling with Inline Styles
 - Adding CSS Classes Dynamically
+- Classes & Computed Properties
 ### Technologies Used
 - HTML
 - CSS
