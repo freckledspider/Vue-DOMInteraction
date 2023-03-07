@@ -7,6 +7,7 @@
 - Outputting raw HTML content with v-html
 - Practice data binding
 - Understanding event binding
+- Events and methods
 ### Technologies Used
 - HTML
 - CSS
