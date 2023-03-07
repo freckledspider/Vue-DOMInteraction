@@ -12,6 +12,7 @@
 - Using the native event object
 - Exploring event modifiers
 - Locking content with v-once
+- Data Binding + Event Binding = Two-Way Binding
 ### Technologies Used
 - HTML
 - CSS
