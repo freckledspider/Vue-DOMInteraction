@@ -6,6 +6,7 @@
 - Working with data inside of a Vue app
 - Outputting raw HTML content with v-html
 - Practice data binding
+- Understanding event binding
 ### Technologies Used
 - HTML
 - CSS
