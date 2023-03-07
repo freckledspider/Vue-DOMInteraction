@@ -18,6 +18,7 @@
 - Working with Watchers
 - v-bind and v-on Shorthands
 - Dynamic Styling with Inline Styles
+- Adding CSS Classes Dynamically
 ### Technologies Used
 - HTML
 - CSS
