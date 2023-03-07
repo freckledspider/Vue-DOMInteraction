@@ -13,6 +13,7 @@
 - Exploring event modifiers
 - Locking content with v-once
 - Data Binding + Event Binding = Two-Way Binding
+- Methods used for Data Binding: How It Works
 ### Technologies Used
 - HTML
 - CSS
